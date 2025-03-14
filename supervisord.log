@@ -1,0 +1,129 @@
+2025-03-13 23:23:22,166 INFO supervisord started with pid 1
+2025-03-13 23:23:23,170 INFO spawned: 'npm' with pid 7
+2025-03-13 23:23:23,173 INFO spawned: 'php-fpm' with pid 8
+2025-03-13 23:23:23,464 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:23:24,466 INFO spawned: 'npm' with pid 22
+2025-03-13 23:23:24,466 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-13 23:23:24,752 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:23:26,755 INFO spawned: 'npm' with pid 34
+2025-03-13 23:23:27,053 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:23:30,057 INFO spawned: 'npm' with pid 46
+2025-03-13 23:23:30,340 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:23:31,341 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-13 23:29:28,751 WARN received SIGQUIT indicating exit request
+2025-03-13 23:29:28,751 INFO waiting for php-fpm to die
+2025-03-13 23:29:29,755 INFO stopped: php-fpm (exit status 0)
+2025-03-13 23:30:24,881 INFO supervisord started with pid 1
+2025-03-13 23:30:25,883 INFO spawned: 'npm' with pid 7
+2025-03-13 23:30:25,884 INFO spawned: 'php-fpm' with pid 8
+2025-03-13 23:30:26,235 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:30:27,237 INFO spawned: 'npm' with pid 22
+2025-03-13 23:30:27,237 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-13 23:30:27,535 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:30:29,539 INFO spawned: 'npm' with pid 34
+2025-03-13 23:30:29,843 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:30:32,847 INFO spawned: 'npm' with pid 46
+2025-03-13 23:30:33,150 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:30:34,151 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-13 23:50:26,340 WARN received SIGQUIT indicating exit request
+2025-03-13 23:50:26,341 INFO waiting for php-fpm to die
+2025-03-13 23:50:26,350 INFO stopped: php-fpm (exit status 0)
+2025-03-13 23:56:09,397 INFO supervisord started with pid 1
+2025-03-13 23:56:10,399 INFO spawned: 'npm' with pid 7
+2025-03-13 23:56:10,401 INFO spawned: 'php-fpm' with pid 8
+2025-03-13 23:56:10,755 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:56:11,757 INFO spawned: 'npm' with pid 22
+2025-03-13 23:56:11,757 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-13 23:56:12,043 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:56:14,048 INFO spawned: 'npm' with pid 34
+2025-03-13 23:56:14,332 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:56:17,336 INFO spawned: 'npm' with pid 46
+2025-03-13 23:56:17,612 WARN exited: npm (exit status 127; not expected)
+2025-03-13 23:56:18,613 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-13 23:56:35,631 INFO reaped unknown pid 367 (exit status 0)
+2025-03-14 00:05:04,663 INFO reaped unknown pid 461 (exit status 0)
+2025-03-14 00:17:47,228 INFO reaped unknown pid 507 (exit status 0)
+2025-03-14 00:19:06,309 INFO reaped unknown pid 541 (exit status 0)
+2025-03-14 00:20:31,128 INFO reaped unknown pid 580 (exit status 0)
+2025-03-14 00:21:53,858 INFO reaped unknown pid 894 (exit status 0)
+2025-03-14 00:32:25,433 INFO reaped unknown pid 1218 (exit status 0)
+2025-03-14 00:33:45,506 INFO reaped unknown pid 1255 (exit status 0)
+2025-03-14 01:06:36,870 WARN received SIGQUIT indicating exit request
+2025-03-14 01:06:36,870 INFO waiting for php-fpm to die
+2025-03-14 01:06:36,883 INFO stopped: php-fpm (exit status 0)
+2025-03-14 01:06:41,270 INFO supervisord started with pid 1
+2025-03-14 01:06:42,272 INFO spawned: 'npm' with pid 7
+2025-03-14 01:06:42,274 INFO spawned: 'php-fpm' with pid 8
+2025-03-14 01:06:42,569 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:06:43,573 INFO spawned: 'npm' with pid 22
+2025-03-14 01:06:43,574 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-14 01:06:43,862 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:06:45,864 INFO spawned: 'npm' with pid 34
+2025-03-14 01:06:46,152 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:06:49,158 INFO spawned: 'npm' with pid 46
+2025-03-14 01:06:49,436 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:06:50,437 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-14 01:08:27,544 WARN received SIGQUIT indicating exit request
+2025-03-14 01:08:27,544 INFO waiting for php-fpm to die
+2025-03-14 01:08:27,551 INFO stopped: php-fpm (exit status 0)
+2025-03-14 01:09:04,985 INFO supervisord started with pid 1
+2025-03-14 01:09:05,987 INFO spawned: 'npm' with pid 7
+2025-03-14 01:09:05,988 INFO spawned: 'php-fpm' with pid 8
+2025-03-14 01:09:06,479 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:09:07,481 INFO spawned: 'npm' with pid 22
+2025-03-14 01:09:07,481 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-14 01:09:07,824 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:09:09,827 INFO spawned: 'npm' with pid 34
+2025-03-14 01:09:10,195 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:09:13,199 INFO spawned: 'npm' with pid 46
+2025-03-14 01:09:13,569 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:09:14,570 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-14 01:19:10,164 WARN received SIGQUIT indicating exit request
+2025-03-14 01:19:10,164 INFO waiting for php-fpm to die
+2025-03-14 01:19:10,175 INFO stopped: php-fpm (exit status 0)
+2025-03-14 01:19:11,598 INFO supervisord started with pid 1
+2025-03-14 01:19:12,600 INFO spawned: 'npm' with pid 7
+2025-03-14 01:19:12,601 INFO spawned: 'php-fpm' with pid 8
+2025-03-14 01:19:12,911 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:19:13,915 INFO spawned: 'npm' with pid 22
+2025-03-14 01:19:13,916 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-14 01:19:14,205 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:19:16,208 INFO spawned: 'npm' with pid 34
+2025-03-14 01:19:16,508 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:19:19,512 INFO spawned: 'npm' with pid 46
+2025-03-14 01:19:19,813 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:19:20,814 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-14 01:25:38,185 WARN received SIGQUIT indicating exit request
+2025-03-14 01:25:38,185 INFO waiting for php-fpm to die
+2025-03-14 01:25:38,189 INFO stopped: php-fpm (exit status 0)
+2025-03-14 01:27:16,507 INFO supervisord started with pid 1
+2025-03-14 01:27:17,509 INFO spawned: 'npm' with pid 7
+2025-03-14 01:27:17,510 INFO spawned: 'php-fpm' with pid 8
+2025-03-14 01:27:17,803 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:27:18,806 INFO spawned: 'npm' with pid 22
+2025-03-14 01:27:18,807 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-14 01:27:19,101 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:27:21,103 INFO spawned: 'npm' with pid 34
+2025-03-14 01:27:21,398 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:27:24,402 INFO spawned: 'npm' with pid 46
+2025-03-14 01:27:24,706 WARN exited: npm (exit status 127; not expected)
+2025-03-14 01:27:25,707 INFO gave up: npm entered FATAL state, too many start retries too quickly
+2025-03-14 01:32:22,000 INFO reaped unknown pid 69 (terminated by SIGINT)
+2025-03-14 01:32:22,000 INFO reaped unknown pid 70 (terminated by SIGINT)
+2025-03-14 01:32:22,000 INFO reaped unknown pid 68 (terminated by SIGKILL)
+2025-03-14 12:30:33,666 INFO reaped unknown pid 213 (exit status 0)
+2025-03-14 12:57:05,390 WARN received SIGQUIT indicating exit request
+2025-03-14 12:57:05,392 INFO waiting for php-fpm to die
+2025-03-14 12:57:05,404 INFO stopped: php-fpm (exit status 0)
+2025-03-14 22:38:33,474 INFO supervisord started with pid 1
+2025-03-14 22:38:34,484 INFO spawned: 'npm' with pid 7
+2025-03-14 22:38:34,485 INFO spawned: 'php-fpm' with pid 8
+2025-03-14 22:38:35,016 WARN exited: npm (exit status 127; not expected)
+2025-03-14 22:38:36,019 INFO spawned: 'npm' with pid 22
+2025-03-14 22:38:36,019 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-03-14 22:38:36,336 WARN exited: npm (exit status 127; not expected)
+2025-03-14 22:38:38,340 INFO spawned: 'npm' with pid 34
+2025-03-14 22:38:38,625 WARN exited: npm (exit status 127; not expected)
+2025-03-14 22:38:42,139 INFO spawned: 'npm' with pid 46
+2025-03-14 22:38:42,418 WARN exited: npm (exit status 127; not expected)
+2025-03-14 22:38:43,419 INFO gave up: npm entered FATAL state, too many start retries too quickly
