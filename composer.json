@@ -1,5 +1,4 @@
 {
-    "$schema": "https://getcomposer.org/schema.json",
     "name": "laravel/laravel",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
@@ -13,6 +12,7 @@
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
         "owen-it/laravel-auditing": "^13.7",
+        "predis/predis": "^2.0",
         "tapp/filament-auditing": "^3.0"
     },
     "require-dev": {
