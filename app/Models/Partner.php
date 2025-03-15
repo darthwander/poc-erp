@@ -33,6 +33,7 @@ class Partner extends Model implements Auditable
         'deleted_at',
     ];
 
+
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class);
