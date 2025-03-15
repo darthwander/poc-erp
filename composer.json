@@ -13,6 +13,7 @@
         "laravel/tinker": "^2.9",
         "owen-it/laravel-auditing": "^13.7",
         "predis/predis": "^2.0",
+        "solution-forest/filament-access-management": "^2.2",
         "tapp/filament-auditing": "^3.0"
     },
     "require-dev": {

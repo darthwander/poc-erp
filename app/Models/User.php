@@ -12,12 +12,14 @@ use OwenIt\Auditing\Contracts\Auditable;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Support\Arr;
 use Illuminate\Support\HtmlString;
+use SolutionForest\FilamentAccessManagement\Concerns\FilamentUserHelpers;
 
 class User extends Authenticatable implements Auditable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable, SoftDeletes;
     use \OwenIt\Auditing\Auditable;
+    use FilamentUserHelpers;
 
     /**
      * The attributes that are mass assignable.
@@ -28,6 +30,7 @@ class User extends Authenticatable implements Auditable
         'name',
         'email',
         'password',
+        'role_id',
     ];
 
     /**
